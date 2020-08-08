@@ -1,7 +1,5 @@
 # Todolist
-Todolist with react native 
-
-All projects are build with [React](https://github.com/facebook/create-react-app) in purpose to learn.
+Todolist is build with [React native](https://reactnative.dev/) in purpose to learn.
 
 ## Installation
 
